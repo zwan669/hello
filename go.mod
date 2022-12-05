@@ -1,4 +1,4 @@
-module github.com/zwan669/module-repo
+module github.com/zwan669/hello
 
 go 1.17
 
